@@ -26,7 +26,7 @@ bot.on("Ready", async() => {
         status: 'dnd',
         activity: {
             name: 'KDOGE FOREVER',
-            type: 'WATCHING',
+            type: 'PLAYING',
         }
     })
 })
